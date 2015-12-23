@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	background-image: url(heroimagesf.jpeg);
+	background-color: #FDF5E6;
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+	color: #2F4F4F;
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+h2 {
+	color: #2F4F4F;
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+p {
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+}
+
