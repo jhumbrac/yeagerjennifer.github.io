@@ -1,32 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:700);
 body {
-	background-image: url("QTrNn7DETWGsjyS5L2n5__MG_8345.jpg");
 	background-color: #FDF5E6;
+	color:#000;
+	font-family:monospace;
+	font-size: 20px;
+}
+section { 
+}
+section#splash {
+	background-image: url("QTrNn7DETWGsjyS5L2n5__MG_8345.jpg");
 	background-size: contain;
 	background-repeat: no-repeat;
-    text-align: center;
+	height: 100vh;
 }
-@import url(https://fonts.googleapis.com/css?family=Lora:700);
+h1, h2 {
+	font-family: 'Lora', serif;
+	text-align: center;
+}
 h1 {
-	color: #000000;
-	font-family: 'Lora', serif;
-	font-size: 80px;
-	line-height: 1.5em;
-	margin: 2em;
-	text-align: center;
+	font-size:4em;
+	line-height: 1.5;
 }
-@import url(https://fonts.googleapis.com/css?family=Lora:700);
 h2 {
-	color: #000000;
-	font-family: 'Lora', serif;
-	font-size: 40px;
-	margin: 2em;
-	text-align: center;
+	font-size: 2em;
 }
 p {
-	font-family: monospace;
-	font-size: 20px;
-	line-height: 2em;
-	margin: 15em;
-	text-align: center;
+	line-height: 1.2;
 }
-
