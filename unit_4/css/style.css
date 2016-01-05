@@ -1,17 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:700);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-color: #FDF5E6;
 	color:#000;
 	font-family:monospace;
 	font-size: 20px;
 }
-section { 
+section {
 }
 section#splash {
 	background-image: url("QTrNn7DETWGsjyS5L2n5__MG_8345.jpg");
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
+	width:100%;
 }
 h1, h2 {
 	font-family: 'Lora', serif;
@@ -24,15 +27,7 @@ h1 {
 h2 {
 	font-size: 2em;
 }
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
 p {
-<<<<<<< Updated upstream
 	line-height: 1.2;
-=======
-	font-family: 'Poiret One', cursive;
-	font-size: 20px;
-	line-height: 2em;
-	margin: 15em;
-	text-align: center;
->>>>>>> Stashed changes
 }
