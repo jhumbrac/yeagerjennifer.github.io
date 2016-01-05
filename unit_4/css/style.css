@@ -24,6 +24,15 @@ h1 {
 h2 {
 	font-size: 2em;
 }
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
 p {
+<<<<<<< Updated upstream
 	line-height: 1.2;
+=======
+	font-family: 'Poiret One', cursive;
+	font-size: 20px;
+	line-height: 2em;
+	margin: 15em;
+	text-align: center;
+>>>>>>> Stashed changes
 }

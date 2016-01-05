@@ -1,0 +1,32 @@
+body {
+	background-image: url("QTrNn7DETWGsjyS5L2n5__MG_8345.jpg");
+	background-color: #c0dec5;
+	background-size: contain;
+	background-repeat: no-repeat;
+    text-align: center;
+}
+@import url(https://fonts.googleapis.com/css?family=Lora:700);
+h1 {
+	color: #000000;
+	font-family: 'Lora', serif;
+	font-size: 80px;
+	line-height: 1.5em;
+	margin: 2em;
+	text-align: center;
+}
+@import url(https://fonts.googleapis.com/css?family=Lora:700);
+h2 {
+	color: #000000;
+	font-family: 'Lora', serif;
+	font-size: 40px;
+	margin: 2em;
+	text-align: center;
+}
+p {
+	font-family: monospace;
+	font-size: 20px;
+	line-height: 2em;
+	margin: 15em;
+	text-align: center;
+}
+
